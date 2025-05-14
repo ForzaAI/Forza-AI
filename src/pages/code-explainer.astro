@@ -1,0 +1,9 @@
+---
+import '../styles/global.css';
+import Layout from '../layouts/Layout.astro';
+import CodeExplainerPage from '../components/CodeExplainer/CodeExplainerPage';
+---
+
+<Layout title="Code Explainer - Forza AI">
+	<CodeExplainerPage client:only="react" />
+</Layout>
