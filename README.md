@@ -28,6 +28,7 @@ What you get:
 
 2.	Forza Productivity Agent
 A Smarter You, Powered by Forza.
+
 The AI Productivity Agent is your 24/7 personal assistant, trained to understand and answer any question you throw at it — instantly, intelligently, and contextually.
 It is designed to serve creators, entrepreneurs, students, researchers, and builders who want to save time and think faster.
 
@@ -59,6 +60,7 @@ Stake Your Tokens. Shape the Future.
 
 Forza Staking will introduce an exciting new way for $FORZA holders to earn passive rewards while contributing to the security and growth of the Forza ecosystem.
 What to expect:
+
 •	Flexible Staking Pools: Stake for short, medium, or long-term periods based on your reward goals.
 •	Attractive APY Rates: Get rewarded generously for securing and supporting the platform.
 •	Community Voting Power: Stakers will have a voice in shaping the platform's future decisions once governance launches.
@@ -68,4 +70,3 @@ What to expect:
 By staking your $FORZA, you’re not just earning rewards — you’re helping stabilize and grow the Forza ecosystem, making it stronger and more community-owned over time.
 
 Join Forza Community on X : https://x.com/forzaaisol
-
