@@ -67,6 +67,4 @@ What to expect:
 •	Early Access Rewards: Enjoy priority access to new AI features, premium tool versions, and exclusive events.
 •	Compounding Growth: Reinvest your staking rewards for amplified returns.
 
-By staking your $FORZA, you’re not just earning rewards — you’re helping stabilize and grow the Forza ecosystem, making it stronger and more community-owned over time.
-
 Join Forza Community on X : https://x.com/forzaaisol
